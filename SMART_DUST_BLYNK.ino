@@ -10,8 +10,8 @@ char auth[] = "J7izQfzQO9cluTT6zNP0lD8DDinVjqC8";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Retana";
-char pass[] = "violetaeshermosa";
+char ssid[] = "";
+char pass[] = "";
 
 int measurePin = A0;
 int ledPower = D2;
